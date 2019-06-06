@@ -1,0 +1,14 @@
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\AbstractFactory_dz\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.exe.config
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\bin\Debug\AbstractFactory_dz.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.csprojAssemblyReference.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\AbstractFactory_dz-master\AbstractFactory_dz\AbstractFactory_dz\obj\Debug\AbstractFactory_dz.pdb
