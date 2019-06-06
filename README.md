@@ -1,0 +1,2 @@
+# pattern_8
+In different regions of Italy pizza is made from different ingredients. It is necessary to develop a program that allows you to "bake" a regional pizza from different sets of components. Each pizza consists of a base (available in two sizes - standard and XXL), a sauce (tomato and barbecue), cheese (Mozzarella, Ricotta, Parmesan), and a set of additional ingredients (meat, salami, pepperoni, mushrooms, olives, seafood and etc.) Each component has its own value.
